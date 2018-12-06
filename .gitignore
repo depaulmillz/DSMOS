@@ -1,3 +1,6 @@
 .DS_STORE
 *.bin
 *.o
+*.img
+build
+build/*
