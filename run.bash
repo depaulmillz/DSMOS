@@ -1,1 +1,1 @@
-qemu-system-i386 -fda os.bin
+qemu-system-i386 -fda build/os.bin
